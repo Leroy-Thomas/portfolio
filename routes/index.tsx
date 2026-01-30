@@ -22,7 +22,7 @@ export default define.page(function Home() {
         <h2 class="text-3xl font-bold mb-4">Mes Informations</h2>
         <p>Mail : thomasleroycontact25@gmail.com</p>
         <p>Numéro de téléphone : 07 66 00 55 06</p>
-        <a href="www.linkedin.com/in/thomas-leroy-contact">
+        <a href="https://www.linkedin.com/in/thomas-leroy-contact">
           LinkedIn : www.linkedin.com/in/thomas-leroy-contact
         </a>
         <LinkCV />
