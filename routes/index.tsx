@@ -21,6 +21,8 @@ export default define.page(function Home() {
       <div class="flex flex-col items-center justify-center p-8 bg-white text-gray-900 mb-8">
         <h2 class="text-3xl font-bold mb-4">Mes Informations</h2>
         <p>Mail : thomasleroycontact25@gmail.com</p>
+        <p>Numéro de téléphone : 07 66 00 55 06</p>
+        <p>LinkedIn : www.linkedin.com/in/thomas-leroy-contact</p>
         <LinkCV />
       </div>
 
@@ -50,7 +52,10 @@ export default define.page(function Home() {
         {/* Block 5: Compétences / Formation */}
         <div class="p-6 border border-gray-200 rounded-lg">
           <h2 class="text-3xl font-bold mb-4">Compétences</h2>
-          <p>TODO</p>
+          <p>Base de Linux</p>
+          <p>Base de HTML</p>
+          <p>Base de CSS</p>
+          <p>Base de Git</p>
         </div>
       </div>
     </div>
