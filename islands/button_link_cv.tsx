@@ -1,8 +1,8 @@
 export default function LinkCV() {
   return (
     <div class="flex gap-8 py-6">
-      <a 
-        href="/test.pdf" 
+      <a
+        href="/CV_Thomas_Leroy_30_01_2026.pdf"
         target="_blank"
         className="px-4 py-2 bg-blue-600 text-white rounded-lg font-bold hover:bg-blue-700 transition"
       >
